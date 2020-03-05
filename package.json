@@ -6,7 +6,7 @@
   "main": "src/index.js",
   "dependencies": {
     "deep-object-diff": "1.1.0",
-    "lodash": "4.17.11",
+    "lodash": "4.17.15",
     "normalizr": "3.3.0",
     "rc-dock": "2.1.7",
     "react": "16.8.3",
